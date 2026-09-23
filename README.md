@@ -114,7 +114,7 @@ Backup copies may remain for a limited period before being overwritten or delete
 
 Logging out removes the locally stored authenticated session and authentication token, but it does not delete the student account from the educational service. Uninstalling the App removes App data from the device but does not by itself delete server-side account records.
 
-To request deletion of a student account or associated personal information, a parent, guardian, or authorized institution may email **info@@hamelalmesk.com** with:
+To request deletion of a student account or associated personal information, a parent, guardian, or authorized institution may email **info@hamelalmesk.com** with:
 
 - the subject line **“Hamel Al-Mesk Data Deletion Request”**;
 - the student username or identifier (do not send the password); and
