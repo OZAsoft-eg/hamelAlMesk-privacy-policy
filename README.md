@@ -114,7 +114,7 @@ Backup copies may remain for a limited period before being overwritten or delete
 
 Logging out removes the locally stored authenticated session and authentication token, but it does not delete the student account from the educational service. Uninstalling the App removes App data from the device but does not by itself delete server-side account records.
 
-To request deletion of a student account or associated personal information, a parent, guardian, or authorized institution may email **info@mosamimon.com** with:
+To request deletion of a student account or associated personal information, a parent, guardian, or authorized institution may email **info@@hamelalmesk.com** with:
 
 - the subject line **“Hamel Al-Mesk Data Deletion Request”**;
 - the student username or identifier (do not send the password); and
@@ -144,7 +144,7 @@ We may update this Privacy Policy to reflect changes to the App, our practices, 
 
 For privacy questions, parental requests, or complaints concerning Hamel Al-Mesk:
 
-- **Email:** [info@mosamimon.com](mailto:info@mosamimon.com)
-- **Phone:** [+966 55 501 9169](tel:+966555019169)
+- **Email:** [info@hamelalmesk.com](mailto:info@hamelalmesk.com)
+- **Phone:** [+965 22 280 404](tel:+96522280404)
 
 Please do not include a password in any message.
